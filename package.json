@@ -1,0 +1,21 @@
+{
+  "name": "todo-mobx-state-tree",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "mobx": "^3.2.2",
+    "mobx-react": "^4.2.2",
+    "mobx-react-devtools": "^4.2.15",
+    "mobx-state-tree": "^0.10.3",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-scripts": "1.0.12",
+    "remotedev": "^0.2.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
